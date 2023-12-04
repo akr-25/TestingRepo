@@ -1,0 +1,21 @@
+{
+    "message": "Succesfully fetched data.",
+    "code": 200,
+    "data": [
+        {
+            "username": "notamankr",
+            "password": "amankr",
+            "profile_pic": "https://picsum.photos/200/300"
+        }, 
+        {
+            "username": "yash",
+            "password": "malik",
+            "profile_pic": "https://picsum.photos/200/300"
+        }, 
+        {
+            "username": "sid",
+            "password": "kr",
+            "profile_pic": "https://picsum.photos/200/300"
+        }
+    ]
+}
